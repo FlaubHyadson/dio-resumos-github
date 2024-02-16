@@ -9,7 +9,7 @@ Repositórios para armazenar resumos sobre Git e Github do curso de versionament
 
 ## 🖥 Resumos das aulas
 
-| Aulas | Resumos |
+| Aulas | Resumo |
 |-------|---------|
 |Python |https://www.devmedia.com.br/python-tutorial/33274
 
